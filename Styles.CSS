@@ -1,0 +1,12 @@
+/*Example of External Css*/
+body{
+    font-family: fantasy;
+    background-color: chartreuse;
+}
+h1{
+    color: crimson;
+}
+p{
+    font-size: 30;
+    color:darkgreen
+}
